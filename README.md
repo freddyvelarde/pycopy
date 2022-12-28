@@ -2,6 +2,10 @@
 
 Simple CLI script to copy content from any file into your clipboard.
 
+# Requeriments
+
+You need to have python3 and pip installed
+
 # Installation
 
 To install this script you can try this command:
@@ -19,4 +23,4 @@ pycopy ./test.txt
 ```
 
 This command will copy the content from test.txt into your clipboard, test it
-pasting it into any test
+pasting it into any text
