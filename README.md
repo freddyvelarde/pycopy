@@ -12,7 +12,13 @@ To install this script you can try this command:
 
 ```shell
 curl https://raw.githubusercontent.com/freddyvelarde/pycopy/master/install.sh | bash
+
+# if you're zsh shell user
 source ~/.zshrc
+
+# or bash
+source ~/.bashrc
+
 ```
 
 # Usage
