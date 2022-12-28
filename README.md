@@ -6,19 +6,17 @@ Simple CLI script to copy content from any file into your clipboard.
 
 You need to have python3 and pip installed
 
+> This installer is made for zsh users like me
+
 # Installation
 
 To install this script you can try this command:
 
+if you're zsh user
+
 ```shell
 curl https://raw.githubusercontent.com/freddyvelarde/pycopy/master/install.sh | bash
-
-# if you're zsh shell user
 source ~/.zshrc
-
-# or bash
-source ~/.bashrc
-
 ```
 
 # Usage
